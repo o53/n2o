@@ -7,7 +7,7 @@
                  [org.clojure/clojure "1.10.0-RC4"]
                  [org.clojure/core.typed "0.6.0"]
                  [org.clojure/test.check "0.9.0" :scope "test"]
-                ;  [org.clojure/clojurescript "1.10.439"]
+                 ;  [org.clojure/clojurescript "1.10.439"]
                  [org.clojure/tools.logging "0.4.1"]
                  [org.clojure/core.async "0.4.490"]
                  [org.immutant/immutant "2.1.10"] ; TODO : get rid of 
